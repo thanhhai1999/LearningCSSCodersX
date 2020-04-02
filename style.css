@@ -1,0 +1,11 @@
+.button-link {
+	color: #FFF;
+    background: #6e6ef5;
+    text-decoration: none;
+    font-family: 'Arial',sans-serif;
+    padding: 7px 16px;
+    border-radius: 7px
+}
+.button-link:hover {
+	background: #4343c3;
+}
